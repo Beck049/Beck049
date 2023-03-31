@@ -9,7 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/蕭文政" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="蕭文政" height="30" width="40" /></a>
+<a href="https://instagram.com/beck_xiao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beck_xiao" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/beck049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="beck049" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/beck049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beck049" height="30" width="40" /></a>
+<a href="https://discord.gg/#3310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3310" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beck049&show_icons=true&locale=en" alt="beck049" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beck049&" alt="beck049" /></p>
-
 
 <!--
 **Beck049/Beck049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
