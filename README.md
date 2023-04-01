@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beck049</h1>
 <h3 align="center">Computer Science Student from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beck049&label=Profile%20views&color=0e75b6&style=flat" alt="beck049" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beck049" alt="beck049" /></a> </p>
 
 - 📫 How to reach me **beckxiao2001323@gmail.com**
