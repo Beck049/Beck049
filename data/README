@@ -1,0 +1,8 @@
+## NTNU_ADMS 軟工
+- NTNU_ADMS_Print
+- NTNU_ADMS_Spec
+- NTNU_ADMS_Design
+- NTNU_ADMS_Test
+
+## HackMD 嵌入 PDF 做預覽
+{%pdf https://raw.githubusercontent.com/ChinLun-Lu/File-of-TA/master/HW7.pdf %}
